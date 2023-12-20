@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Which is required for the Internet Connection?",
+    option1: "Modem",
+    option2: "Router",
+    option3: "LAN Cable",
+    option4: "Pen Drive",
+    ans: 1,
+  },
+  {
+    question: "Which City is the Capital of Pakistan?",
+    option1: "Lahore",
+    option2: "Karachi",
+    option3: "Islamabad",
+    option4: "Quetta",
+    ans: 3,
+  },
+  {
+    question: "Which is the Largest Ocean of the World?",
+    option1: "Arabian Ocean",
+    option2: "Pacific Ocean",
+    option3: "Altantic Ocean",
+    option4: "Arctic Ocean",
+    ans: 2,
+  },
+  {
+    question: "Currency of Bangladesh?",
+    option1: "Rupiya",
+    option2: "Dollar",
+    option3: "Dirham",
+    option4: "Taka",
+    ans: 4,
+  },
+  {
+    question: "What is the name of World Largest Cricket Stadium?",
+    option1: "Lord's Stadium",
+    option2: "Nirandar Modi Cricket Stadium",
+    option3: "Eden Garden Stadium",
+    option4: "Melbourne Stadium",
+    ans: 2,
+  },
+];
