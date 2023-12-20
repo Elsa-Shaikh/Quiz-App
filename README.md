@@ -1,3 +1,9 @@
+# Quiz App
+This is a simple Quiz App built with the basics of React.js, exploring how React states work.
+
+# Technologies
+HTML CSS ReactJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
